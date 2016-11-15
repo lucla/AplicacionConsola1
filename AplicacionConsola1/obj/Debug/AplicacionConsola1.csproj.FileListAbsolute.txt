@@ -1,0 +1,6 @@
+F:\VisualStudio\C#\01\AplicacionConsola1\AplicacionConsola1\bin\Debug\AplicacionConsola1.exe.config
+F:\VisualStudio\C#\01\AplicacionConsola1\AplicacionConsola1\bin\Debug\AplicacionConsola1.exe
+F:\VisualStudio\C#\01\AplicacionConsola1\AplicacionConsola1\bin\Debug\AplicacionConsola1.pdb
+F:\VisualStudio\C#\01\AplicacionConsola1\AplicacionConsola1\obj\Debug\AplicacionConsola1.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\01\AplicacionConsola1\AplicacionConsola1\obj\Debug\AplicacionConsola1.exe
+F:\VisualStudio\C#\01\AplicacionConsola1\AplicacionConsola1\obj\Debug\AplicacionConsola1.pdb
